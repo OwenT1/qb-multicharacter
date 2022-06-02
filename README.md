@@ -1,16 +1,26 @@
-# qb-multicharacter
-qb-multicharacter design
+edesign of Multi Character QBCore
 
-# Simple cool design for qb-multicharacter
-Preview:
-Video: https://streamable.com/kxes0c
+This is my official edit of the original script QB-Multicharacter
 
-Images:
-![](https://cdn.discordapp.com/attachments/797581154315927573/913605200894390322/unknown.png)
-![](https://cdn.discordapp.com/attachments/797581154315927573/913605260491231252/unknown.png)
-![](https://cdn.discordapp.com/attachments/797581154315927573/913605989880692827/unknown.png)
+I have spent a while editing this script and making it look fire for you all to use in your city
+
+https://discord.gg/MnHRK2DBtU
 
 
-# Also you have the qb-spawn design
+For this to work you must have QB-Spawn
 
-https://github.com/marcostom32/qb-spawn
+Credits:
+
+QBCore - Original Script Owen T - Edited Script
+
+Preview 1: https://streamable.com/9a2eg4
+
+Preview 2: https://streamable.com/z2pxnr
+
+This is my second script I have edited if you enjoy my scrips please join the Discord!
+
+Steps to install:
+
+Drag and drop the resource to your resources folder Ensure you have started the resource in your server.cfg Restart your server and enjoy
+
+You can edit the LOGO By going into Index.html and opening it edit the src image link If you need help join the discord and I will help you do this!
