@@ -17,7 +17,7 @@ Preview 1: https://streamable.com/9a2eg4
 
 Preview 2: https://streamable.com/z2pxnr
 
-This is my second script I have edited if you enjoy my scrips please join the Discord!
+This is my second script I have edited if you enjoy these edits please join the Discord!
 
 Steps to install:
 
