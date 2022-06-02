@@ -1,4 +1,4 @@
-edesign of Multi Character QBCore
+Redesign of Multi Character QBCore
 
 This is my official edit of the original script QB-Multicharacter
 
