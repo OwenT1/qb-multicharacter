@@ -11,7 +11,9 @@ For this to work you must have QB-Spawn
 
 Credits:
 
-QBCore - Original Script Owen T - Edited Script
+QBCore - Original Script 
+Marcostom32 - Original Script
+Owen T - Edited Script
 
 Preview 1: https://streamable.com/9a2eg4
 
